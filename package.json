@@ -1,32 +1,15 @@
 {
-	"name": "css3-translate",
-	"version": "0.0.2",
-	"description": "A tiny, functional CSS3 translation transforms API that shims browser-specific APIs.",
-	"main": "lib/translate.js",
-	"implements": ["CommonJS/Modules/1.0"],
-	"homepage": "https://github.com/mattcg/css3-translate",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/mattcg/css3-translate.git"
-	},
-	"contributors": [
-		{
-			"name": "Matthew Caruana Galizia",
-			"email": "m@m.cg"
-		}
-	],
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://mattcg.mit-license.org/"
-		}
-	],
-	"keywords": [
-		"css3",
-		"css",
-		"translate",
-		"transform",
-		"shim",
-		"polyfill"
-	]
+  "name": "mattcg-css3-translate",
+  "description": "A tiny, functional CSS3 translation transforms API that shims browser-specific APIs.",
+  "version": "0.0.2",
+  "keywords": [
+    "css3",
+    "css",
+    "translate",
+    "transform",
+    "shim",
+    "polyfill"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }

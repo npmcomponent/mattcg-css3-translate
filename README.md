@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mattcg/css3-translate](http://github.com/mattcg/css3-translate). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mattcg-css3-translate`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # CSS3 translate #
 
 A tiny (900 bytes minified, 470 bytes gziped), functional CSS3 translation transforms API for JavaScript. Supports all browsers supporting CSS3 Transforms. Check out the [support grid](http://caniuse.com/transforms2d).
